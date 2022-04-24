@@ -1,0 +1,4 @@
+﻿  Day2_First_Program.cpp
+C:\Users\Rahul\source\repos\Day2_First_Program\Day2_First_Program\Day2_First_Program.cpp(18,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Rahul\source\repos\Day2_First_Program\Day2_First_Program\Day2_First_Program.cpp(27,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Day2_First_Program.vcxproj -> C:\Users\Rahul\source\repos\Day2_First_Program\Debug\Day2_First_Program.exe
